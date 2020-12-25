@@ -6,7 +6,7 @@ All official releases will go into this repository, so be sure to keep checking 
 
 ## Cura Profiles
 
-Currently, there are screenshots of machine settings for the Snapmaker 2.0 A350 for Cura 3.6 and Cura 4.8 as well as downloadable cura settings profiles for both versions. There is a video to go along with these profiles as well.
+Currently, there are screenshots of machine settings for the Snapmaker 2.0 A350 for Cura 3.6 and Cura 4.8 as well as downloadable cura settings profiles for both versions. There is a video (coming soon!) to go along with these profiles as well.
 
 - [Download the profiles for Cura 3.6 and 4.8](https://github.com/Kaouthia/Snapmaker-2/tree/main/Cura%20Profiles)
 - [Watch the SM2.0 A350 Cura video on YouTube](https://youtube.com/johnaldred)
