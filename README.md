@@ -4,6 +4,10 @@ This is my archive of files for the Snapmaker 2.0 A350. At the moment, that prim
 
 All official releases will go into this repository, so be sure to keep checking back for updates - and I will be updating the Cura files as I keep printing, testing and tweaking.
 
+## Cura Profiles
+
 Currently, there are screenshots of machine settings for the Snapmaker 2.0 A350 for Cura 3.6 and Cura 4.8 as well as downloadable cura settings profiles for both versions.
+
+- [Download the Cura profiles](https://github.com/Kaouthia/Snapmaker-2/tree/main/Cura%20Profiles)
 
 The only thing I haven't finalised yet are the "Printhead Settings" section. But, these are only important if you're printing multiple models with the "Print Sequence" set to "One at a time". If you're printing multiple models with it set to "All at once" then they are irrelevant. I will fill them in at some point, though. :)
