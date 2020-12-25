@@ -2,7 +2,7 @@
 
 This is my archive of files for the Snapmaker 2.0 A350. At the moment, that primarily means my Cura 3D printing profiles. In the future, I may add profiles for other slicers, and possibly CNC and laser-related files, as well as potential upgrades you might want to print to improve the features of your Snapmaker 2.0.
 
-All official releases will go into this repository, so be sure to keep checking back for updates - and I will be updating the Cura files as I keep printing, testing and tweaking.
+All my final releases will go into this repository, so be sure to keep checking back for updates - and I will be updating the Cura files as I keep printing, testing and tweaking.
 
 ## Cura Profiles
 
@@ -11,5 +11,6 @@ Currently, there are screenshots of machine settings for the Snapmaker 2.0 A350 
 - [Download the profiles for Cura 3.6 and 4.8](https://github.com/Kaouthia/Snapmaker-2/tree/main/Cura%20Profiles)
 - [Watch the SM2.0 A350 Cura video on YouTube](https://youtube.com/johnaldred)
 
-
 The only thing I haven't finalised yet are the "Printhead Settings" section (my printer's just been too busy printing and I keep forgetting to measure it when it's not). But, these are only important if you're printing multiple models with the "Print Sequence" set to "One at a time". If you're printing multiple models with it set to "All at once" then they are irrelevant. I will fill them in at some point, though. :)
+
+***Disclaimer** : The [official position from Snapmaker](https://manual.snapmaker.com/3d_printing/faq/snapmaker-profile-for-cura-and-simplify3d.html) is that if 3rd party software (which includes slicing software like Cura) kills your printer, then your warranty is void. So, while I don't expect any of these files to have negative issues on your printer (they don't wirh mine) you still use them at your own risk.*
