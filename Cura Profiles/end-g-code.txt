@@ -1,0 +1,9 @@
+M104 S0 ;extruder heater off
+M140 S0 ;heated bed heater off (if you have it)
+G90 ;absolute positioning
+G92 E0 ; Reset extruder
+G1 E-1 F300 ;retract the filament a bit before lifting the nozzle, to release some of the pressure
+G91 ;relative positioning
+G1 Z10 F1000 ;move Z axis up 10mm
+G90 ;absolute positioning
+G28 X0 Y0 ;home the print head
