@@ -4,12 +4,16 @@ This is my archive of files for the Snapmaker 2.0 A350. At the moment, that prim
 
 All my final releases will go into this repository, so be sure to keep checking back for updates - and I will be updating the Cura files as I keep printing, testing and tweaking.
 
-## Cura Profiles
+## Snapmaker 2 Cura Settings & Profiles
 
 Currently, there are screenshots of machine settings for the Snapmaker 2.0 A350 for Cura 3.6 and Cura 4.8 as well as downloadable cura settings profiles for both versions. There is a video (coming soon!) to go along with these profiles as well.
 
 - [Download the profiles for Cura 3.6 and 4.8](https://github.com/Kaouthia/Snapmaker-2/archive/main.zip)
 - [Watch the SM2.0 A350 Cura video on YouTube](https://youtube.com/johnaldred) *(Coming soon)*
+
+Here are the machine settings for Cura 4.8 for the Snapmaker 2.0 A350. For the A350, the X, Y and Z dimensiuons are 320mm, 350mm and 330mm respectively. For the A250, those dimensions are 230mm, 250mm and 235mm. For the A150 they are 160mm, 160mm and 145mm.
+
+![Snapmaker 2.0 A350 Settings](https://github.com/Kaouthia/Snapmaker-2/blob/main/Cura%20Profiles/Cura%204.8.x%20Profiles/machine-settings.jpg?raw=true)
 
 So that you don't have to risk making typos by manually typing out the start and end G-code, here are a pair of text files that you can just copy+paste straight into Cura. These are for the Snapmaker 2 (***don't*** try to use these with the original Snapmaker).
 
