@@ -4,7 +4,7 @@ This is my archive of files for the Snapmaker 2.0 A350. At the moment, that prim
 
 All my final releases will go into this repository, so be sure to keep checking back for updates - and I will be updating the Cura files as I keep printing, testing and tweaking.
 
-## Snapmaker 2 Cura Settings & Profiles
+## Snapmaker 2 Cura Settings & Profiles (PLA & TPU)
 
 Currently, there are screenshots of machine settings for the Snapmaker 2.0 A350 for Cura 3.6 and Cura 4.8 as well as downloadable cura settings profiles for both versions. There is a video to go along with these profiles as well.
 
