@@ -29,3 +29,9 @@ You'll also need to dial in the extruder settings to change the filament diament
 ![Snapmaker 2.0 A350 Extruder Settings](https://github.com/Kaouthia/Snapmaker-2/blob/main/Cura%20Profiles/Cura%204.8.x%20Profiles/extruder-settings.jpg?raw=true)
 
 ***Disclaimer** : The [official position from Snapmaker](https://support.snapmaker.com/hc/en-us/articles/360044341034-What-is-the-recommended-3D-printing-settings-in-Cura-or-Simplify3D-for-Snapmaker-2-0-) is that if 3rd party software (which includes slicing software like Cura) kills your printer, then your warranty is void. So, while I don't expect any of these files to have negative issues on your printer (they don't with mine) you still use them at your own risk.*
+
+## Need more help?
+
+If you need more help with setting up Cura or just want to chat about anything else related to the Snapmaker 2.0 or 3D printing, come join us on Discord!
+
+- [Join the Discord server!](http://johnaldred.com/discord)
