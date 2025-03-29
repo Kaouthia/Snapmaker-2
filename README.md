@@ -12,9 +12,9 @@ Currently, there are screenshots of machine settings for the Snapmaker 2.0 A350 
 - [Watch the SM2.0 A350 Cura video on YouTube](https://youtu.be/aLY85usal60)
 - [Printing rubber stamps with TPU on the SM2.0 A350](https://youtu.be/Qd9igBEgmPY)
 
-[![Watch the Snapmaker 2.0 A350 Cura video on YouTube](http://www.johnaldred.com/wp-content/uploads/2021/01/snapmaker2-cura-play_button.jpg)](https://youtu.be/aLY85usal60)
+[![Watch the Snapmaker 2.0 A350 Cura video on YouTube](https://www.johnaldred.com/wp-content/uploads/2025/03/snapmaker2-cura-play_button.jpg)](https://youtu.be/aLY85usal60)
 
-[![3D Printing rubber stamps with TPU on the Snapmaker 2.0 A350](http://www.johnaldred.com/wp-content/uploads/2021/03/snapmaker2-cura-tpu-play_button.jpg)](https://youtu.be/Qd9igBEgmPY)
+[![3D Printing rubber stamps with TPU on the Snapmaker 2.0 A350](https://www.johnaldred.com/wp-content/uploads/2025/03/snapmaker2-cura-tpu-play_button.jpg)](https://youtu.be/Qd9igBEgmPY)
 
 Here are the machine settings for Cura 4.8 for the Snapmaker 2.0 A350. For the A350, the X, Y and Z dimensiuons are 320mm, 350mm and 330mm respectively. For the A250, those dimensions are 230mm, 250mm and 235mm. For the A150 they are 160mm, 160mm and 145mm.
 
